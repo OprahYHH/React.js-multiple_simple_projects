@@ -80,42 +80,5 @@ export const jsonData = [
         "projectName": "Shopping Supply List App",
         "githubLink": "https://github.com/oprahca/test/tree/master/src/Components/R009",
         "demoLink": "/R009"
-    }, {
-        "id": "R010",
-        "tags": [
-            "npx", "MERN", "Mongoose", "Router", "Component"
-        ],
-        "level": "Intermediate",
-        "projectName": "MERN Exercise Tracker with MongoDB and Component",
-        "githubLink": "https://github.com/oprahca/mern-stack-exercise-tracker-mongodb",
-        "demoLink": "https://mern-stack-exercise-tracker-mongodb.vercel.app/",
-        // "demoLink": "/R010"
-    }, {
-        "id": "R011",
-        "tags": [
-            "npx", "MERN", "Hook", "Mongoose", "Router"
-        ],
-        "level": "Intermediate",
-        "projectName": "MERN Fiction Book with MongoDB and React Hook",
-        "githubLink": "https://github.com/oprahca/mern-stack-fiction-books-mongodb-hook",
-        "demoLink": "https://mern-stack-fiction-books-mongodb-hook.vercel.app/",
-    }, {
-        "id": "R012",
-        "tags": [
-            "npx", "Router", "TreeHouse"
-        ],
-        "level": "Beginner",
-        "projectName": "React Nested Router Frond-End Course App",
-        "githubLink": "https://github.com/oprahca/react-router-front-end-course-app",
-        "demoLink": "https://react-router-front-end-course-app.vercel.app/",
-    }, {
-        "id": "R013",
-        "tags": [
-            "npx", "Router", "TreeHouse", "Hook",  "Fetch API", "Ajax"
-        ],
-        "level": "Beginner",
-        "projectName": "React Flickr API Gallery App Using Hook/Router",
-        "githubLink": "https://github.com/oprahca/react-gallery-flickr-api-component",
-        "demoLink": "https://react-gallery-flickr-api-component.vercel.app/",
     }
 ]
